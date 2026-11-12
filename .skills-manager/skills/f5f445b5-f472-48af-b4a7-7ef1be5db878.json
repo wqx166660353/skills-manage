@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5f445b5-f472-48af-b4a7-7ef1be5db878",
+  "path": "rtk-tdd",
+  "path_key": "rtk-tdd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "rtk-ai/rtk/rtk-tdd",
+    "subpath": ".claude\\skills\\rtk-tdd",
+    "branch": null
+  }
+}
